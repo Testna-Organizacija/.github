@@ -13,3 +13,5 @@ The main goals we are pursuing are:
 - responsive web design,
 - responsive information visualization. 
 
+![alt text](https://github.com/Testna-Organizacija/.github/HBeats.gif)
+![alt text](https://github.com/Testna-Organizacija/.github/blob/main/HBeats.gif)
