@@ -1,5 +1,7 @@
 # Laboratory for Biomedical Computer Systems and Imaging
 
+![alt text](https://github.com/Testna-Organizacija/.github/blob/main/HBeats.gif)
+
 The main goals we are pursuing are:
 - understand and describe the physiological phenomena,
 - use a computer in modeling and understanding physiologic relationships,
