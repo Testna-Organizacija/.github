@@ -1,16 +1,8 @@
-# Laboratory for Biomedical Computer Systems and Imaging
+# Testing laboratory for image processing
 
 ![Hartbeats](https://github.com/Testna-Organizacija/.github/blob/main/HBeats.gif)
 
-The main goals we are pursuing are:
-- understand and describe the physiological phenomena,
-- use a computer in modeling and understanding physiologic relationships,
-- monitor physiologic events, graphically display anatomic details and physiologic functions, visualize and represent biomedical signal and imaging data,
-- develop standardized databases to evaluate the performance and robustness of recognition techniques and to study physiologic mechanisms,
-- characterize data, and establish the detection criteria and recognition techniques to automatize as much as possible analysis of bioelectric patterns, the examinations, procedures, and medical practice in order to improve the quality and reliability of the examinations,
-- interpret the data and the results qualitatively and quantitatively,
-- develop performance measures and protocols to evaluate detection techniques,
-- develop biomedical information technologies and software,
-- dynamic web interface creation,
-- responsive web design,
-- responsive information visualization. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+- commodo consequat. Duis aute irure dolor in
+- reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
